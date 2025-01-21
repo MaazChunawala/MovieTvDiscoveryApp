@@ -21,3 +21,5 @@ git clone https://github.com/MaazChunawala/MovieTVDiscoveryApp.git
 - Xcode 12 or later.
 - SwiftUI.
 - Watchmode API key.
+
+<img width="487" alt="Screenshot 2025-01-21 at 12 56 39 PM" src="https://github.com/user-attachments/assets/8bf0ebb5-42ea-4791-9f6d-fda34dd600b2" />
