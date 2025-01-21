@@ -13,3 +13,11 @@ This is an iOS app built with SwiftUI that fetches and displays a list of movies
 ## How to Run
 1. Clone the repository
 git clone https://github.com/MaazChunawala/MovieTVDiscoveryApp.git
+2. Open the project in Xcode.
+3. Replace `YOUR_API_KEY` in `APIService.swift` with your Watchmode API key.
+4. Build and run the app on a simulator or real device.
+
+## Requirements
+- Xcode 12 or later.
+- SwiftUI.
+- Watchmode API key.
